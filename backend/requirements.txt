@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+supabase
+streamlit
+python-multipart
+pypdf
+langchain-text-splitters
+ollama
+sentence-transformers
+numpy
+python-dotenv
